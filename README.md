@@ -1,4 +1,4 @@
-# OTP-Verification-System---Python
+# OTP Verification System - Python
 Summary of OTP Verification System
 Modules Used
 
